@@ -221,3 +221,12 @@ Route::get('sendemail', function()
 	
 	return View::make('home.index')->with('status_message', $status_message);
 });
+
+// Route for Blog_Controller
+Route::controller('blog');
+
+// Route for Blosjs_Controller
+Route::controller('blosjs');
+
+// Route for Blos_Controller
+Route::controller('blos');

@@ -8,3 +8,5 @@ Using Bootstrapper and Bob Laravel Bundles and Twitter Bootstrap for user interf
 Create following the tutorial on http://maxoffsky.com
 
 Can view it living on http://glossy-giselle.pagodabox.com/
+
+Fell free to Fork it :)
